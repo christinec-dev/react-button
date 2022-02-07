@@ -1,3 +1,8 @@
+# Reusable Button
+This is a reusable button component made with React and React Hooks. It changes the states through props and functions. You can thus change the button text, size and variables universally. 
+
+![Screenshot 2022-02-07 164727](https://user-images.githubusercontent.com/87696858/152811506-a91f774c-f4a1-4508-9a61-e3698bef79de.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
